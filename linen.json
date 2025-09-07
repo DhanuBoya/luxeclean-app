@@ -1,0 +1,6 @@
+{
+  "property": { "address": "12 Acland St" },
+  "items": { "queenSets": 2, "towelSets": 4 },
+  "pickupAt": "2025-09-10T14:00:00+10:00",
+  "returnAt": "2025-09-11T09:00:00+10:00"
+}
